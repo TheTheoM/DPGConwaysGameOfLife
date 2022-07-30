@@ -1,4 +1,4 @@
-# Heading Conway's Game of Life written in Pure Python with DPG's Drawing functionality.
+# Conway's Game of Life written in Pure Python with DPG's Drawing functionality.
 
 ##  Requirements: 
 ### - Python > 3.6
